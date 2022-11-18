@@ -1,0 +1,6 @@
+katlin 
+val languageName: String = null
+val languageName: String? = null
+
+#full func
+fun generateAnswerString
